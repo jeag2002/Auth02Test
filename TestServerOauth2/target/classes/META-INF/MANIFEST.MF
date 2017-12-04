@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: TestServerOauth2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Usuario
+Implementation-Vendor-Id: TestServerOauth2
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/TestServerOa
+ uth2/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
